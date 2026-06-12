@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Outfit Labs | Cart</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <button id="openMenu" class="icon-btn" aria-label="Open menu">☰</button>
+    <a class="brand-link" href="inventory.html">Outfit Labs</a>
+    <a class="cart-link" href="cart.html" aria-label="Cart">🛒<span id="cartBadge" class="cart-badge hidden">0</span></a>
+  </header>
+
+  <aside id="sideMenu" class="side-menu" aria-label="Menu">
+    <button id="closeMenu" class="close-btn" aria-label="Close menu">×</button>
+    <a href="inventory.html">All Items</a>
+    <a href="#about">About</a>
+    <button id="logoutButton" class="menu-button">Logout</button>
+    <button id="resetButton" class="menu-button">Reset App State</button>
+  </aside>
+  <div id="menuShade" class="menu-shade"></div>
+
+  <main class="page-content cart-content">
+    <h1>Your Cart</h1>
+    <div class="cart-heading"><span>QTY</span><span>Description</span></div>
+    <section id="cartItems" class="cart-list"></section>
+    <p id="emptyCart" class="empty-text hidden">Your cart is empty.</p>
+    <div class="cart-actions">
+      <a href="inventory.html" class="outline-btn">← Continue Shopping</a>
+      <a id="checkoutLink" href="checkout.html" class="primary-btn">Checkout</a>
+    </div>
+  </main>
+
+  <footer id="about" class="footer fixed-footer">
+    <div class="socials"><span>𝕏</span><span>f</span><span>in</span></div>
+    <p>© 2026 Outfit Labs. All Rights Reserved. Terms of Service | Privacy Policy</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

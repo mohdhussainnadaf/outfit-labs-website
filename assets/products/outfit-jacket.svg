@@ -1,0 +1,8 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#F6F6F8"/>
+  <path d="M230 160H370L440 202L488 360L420 384L394 308V482H206V308L180 384L112 360L160 202L230 160Z" fill="#E9EEF3" stroke="#9AA9B5" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M230 162C242 220 358 220 370 162" stroke="#155239" stroke-width="12" stroke-linecap="round"/>
+  <path d="M300 205V482" stroke="#9AA9B5" stroke-width="8"/>
+  <path d="M252 270H286M314 270H348" stroke="#43D68B" stroke-width="10" stroke-linecap="round"/>
+  <text x="300" y="540" text-anchor="middle" font-family="Courier New" font-size="28" fill="#155239">Outfit Jacket</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#F4F7FA"/>
+  <path d="M205 108H395L420 494H335L304 240L272 494H186L205 108Z" fill="#2E6FA3" stroke="#1E547F" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M208 150H392" stroke="#BDD9EC" stroke-width="10"/>
+  <path d="M302 154L304 240" stroke="#1E547F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M240 168C248 198 276 206 304 207" stroke="#8BC0E4" stroke-width="8" stroke-linecap="round"/>
+  <path d="M366 168C358 198 330 206 304 207" stroke="#8BC0E4" stroke-width="8" stroke-linecap="round"/>
+  <text x="300" y="540" text-anchor="middle" font-family="Courier New" font-size="28" fill="#155239">Denim Jeans</text>
+</svg>

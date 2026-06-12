@@ -1,0 +1,8 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#F7F6F3"/>
+  <path d="M132 330C188 314 220 276 244 218C292 266 374 306 461 320C506 328 522 356 511 386C503 408 484 420 452 420H165C121 420 102 383 132 330Z" fill="#222831" stroke="#111820" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M160 388H506" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M248 256L312 302M284 238L348 285M326 257L386 302" stroke="#43D68B" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="438" cy="344" r="20" fill="#43D68B"/>
+  <text x="300" y="540" text-anchor="middle" font-family="Courier New" font-size="28" fill="#155239">Runner Shoes</text>
+</svg>

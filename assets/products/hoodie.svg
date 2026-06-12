@@ -1,0 +1,8 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#F3F5F5"/>
+  <path d="M228 200C230 140 370 140 372 200L434 226L474 374L410 392L386 314V480H214V314L190 392L126 374L166 226L228 200Z" fill="#20252B" stroke="#101417" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M235 202C245 258 355 258 365 202" stroke="#43D68B" stroke-width="12" stroke-linecap="round"/>
+  <path d="M265 292H335C350 292 362 304 362 319V368H238V319C238 304 250 292 265 292Z" fill="#343B43" stroke="#111820" stroke-width="8"/>
+  <path d="M290 246V334M310 246V334" stroke="#E8ECEF" stroke-width="5" stroke-linecap="round"/>
+  <text x="300" y="540" text-anchor="middle" font-family="Courier New" font-size="28" fill="#155239">Black Hoodie</text>
+</svg>

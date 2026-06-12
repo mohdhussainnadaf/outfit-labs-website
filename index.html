@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Outfit Labs | Login</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="login-body">
+  <main class="login-shell">
+    <h1 class="brand-title">Outfit Labs</h1>
+
+    <section class="login-card" aria-label="Login form">
+      <div class="login-panel">
+        <form id="loginForm" class="login-form">
+          <label class="sr-only" for="username">Username</label>
+          <input id="username" name="username" type="text" placeholder="Username" autocomplete="username" required />
+
+          <label class="sr-only" for="password">Password</label>
+          <input id="password" name="password" type="password" placeholder="Password" autocomplete="current-password" required />
+
+          <button type="submit" class="primary-btn full-btn">Login</button>
+          <p id="loginError" class="error-message" role="alert"></p>
+        </form>
+      </div>
+
+      <div class="credentials-panel">
+        <div>
+          <h2>Accepted usernames are:</h2>
+          <p>standard_user</p>
+          <p>outfit_user</p>
+          <p>locked_out_user</p>
+          <p>visual_user</p>
+        </div>
+        <div>
+          <h2>Password for all users:</h2>
+          <p>secret_sauce</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
